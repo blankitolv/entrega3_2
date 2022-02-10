@@ -1,0 +1,44 @@
+[
+  {
+    "title": "un prod12",
+    "price": "231312",
+    "thumbnail": "http://localhost:8080/25",
+    "id": 0
+  },
+  {
+    "title": "un prod12sdf",
+    "price": "231312",
+    "thumbnail": "http://localhost:8080/25",
+    "id": 1
+  },
+  {
+    "title": "un prod12sdfasd",
+    "price": "231312",
+    "thumbnail": "http://localhost:8080/25",
+    "id": 2
+  },
+  {
+    "title": "un prod12sdfasddd",
+    "price": "231312",
+    "thumbnail": "http://localhost:8080/25",
+    "id": 3
+  },
+  {
+    "title": "un prod12sdfasdddaaaa",
+    "price": "231312",
+    "thumbnail": "http://localhost:8080/25",
+    "id": 4
+  },
+  {
+    "title": "un prod12sdfasdddaaaadddd11111",
+    "price": "231312",
+    "thumbnail": "http://localhost:8080/25",
+    "id": 6
+  },
+  {
+    "title": "alfajor",
+    "price": "130",
+    "thumbnail": "http://localhost:8080/25",
+    "id": 7
+  }
+]
